@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://prefilterhvac.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://prefilterhvac.com/best-best-hvac-pre-filters-pre-filter-systems-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://prefilterhvac.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://prefilterhvac.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://prefilterhvac.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-practical-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-quality-vs-marketing.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-compared-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://prefilterhvac.com/how-to-pick-prefilterhvac-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-tested-ranked-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://prefilterhvac.com/best-prefilterhvac-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-reviewed-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://prefilterhvac.com/prefilterhvac-market-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://prefilterhvac.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
